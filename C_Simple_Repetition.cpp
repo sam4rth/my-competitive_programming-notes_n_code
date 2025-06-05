@@ -2,7 +2,7 @@
 #include <string>
 #include <math.h>
 using namespace std;
-
+//Test 2
 /* Overloading * operator */
 string operator * (string a, unsigned int b) {
     string output = "";
